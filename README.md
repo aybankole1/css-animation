@@ -1,4 +1,4 @@
-# css-animan.github.io
+# css-animation
 
 CSS Animation Project
 
